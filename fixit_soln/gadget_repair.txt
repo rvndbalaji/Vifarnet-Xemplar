@@ -1,0 +1,10 @@
+Repair Windows Gadgets
+
+
+>> Ctrl+ Shift+ Esc
+>> End the process named 'sidebar.exe'
+>> Go to 'My Computer' and press F4. Paste this in the address bar: " %localappdata%\microsoft\Windows Sidebar "
+>> Delete the file named 'Settings.ini'
+>> Close all windows and then right-click on the desktop and select 'gadgets'
+
+YOUR GADGETS ARE GOOD AS NEW! :D :)

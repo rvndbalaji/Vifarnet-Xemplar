@@ -1,0 +1,148 @@
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\bin\Debug\Vifarnet X-emplar.exe.config
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Interop.WMPLib.dll
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet X-emplar.vbproj.ResolveComReference.cache
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet X-emplar.exe
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet X-emplar.xml
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet X-emplar.pdb
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\bin\Debug\Vifarnet X-emplar.exe.manifest
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\bin\Debug\Vifarnet X-emplar.application
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\bin\Debug\Vifarnet X-emplar.exe
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\bin\Debug\Vifarnet X-emplar.pdb
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\bin\Debug\Vifarnet X-emplar.xml
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\bin\Debug\Interop.WMPLib.dll
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\bin\Debug\AxInterop.WMPLib.dll
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.abt.resources
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.abt_fixit.resources
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.abt_mov.resources
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.abt_music.resources
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.abt_xplore.resources
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.ctrl.resources
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Dialog1.resources
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Dialog2.resources
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Dialog3.resources
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Dialog4.resources
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Dialog5.resources
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Dip.resources
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.VifFixIt.resources
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.math.resources
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.ud1.resources
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.ud2.resources
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.xp.resources
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.xplore.resources
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Mov.resources
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.music.resources
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Resources.resources
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.pass.resources
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.PvtPort.resources
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Spls.resources
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.StrtScrn.resources
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet X-emplar.TrustInfo.xml
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet X-emplar.exe.manifest
+D:\Aravind Balaji\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet X-emplar.application
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\bin\Debug\Vifarnet X-emplar.exe.config
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Interop.WMPLib.dll
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet X-emplar.vbproj.ResolveComReference.cache
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet X-emplar.exe
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet X-emplar.pdb
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\bin\Debug\Vifarnet X-emplar.exe.manifest
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\bin\Debug\Vifarnet X-emplar.application
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\bin\Debug\Vifarnet X-emplar.exe
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\bin\Debug\Vifarnet X-emplar.pdb
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\bin\Debug\Interop.WMPLib.dll
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\bin\Debug\AxInterop.WMPLib.dll
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.abt.resources
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.abt_fixit.resources
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.abt_mov.resources
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.abt_music.resources
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.abt_xplore.resources
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.ctrl.resources
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Dialog1.resources
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Dialog2.resources
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Dialog3.resources
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Dialog4.resources
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Dialog5.resources
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Dip.resources
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.VifFixIt.resources
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.math.resources
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.ud1.resources
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.ud2.resources
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.xp.resources
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.xplore.resources
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Mov.resources
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.music.resources
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Resources.resources
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.pass.resources
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.PvtPort.resources
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Spls.resources
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.StrtScrn.resources
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet X-emplar.TrustInfo.xml
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet X-emplar.exe.manifest
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet X-emplar.application
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\bin\Debug\Vifarnet X-emplar.xml
+E:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet X-emplar.xml
+D:\Visual Basics 2010\Backup\Vifarnet\Vifarnet Sp+\bin\Debug\Vifarnet X-emplar.exe.config
+D:\Visual Basics 2010\Backup\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Interop.WMPLib.dll
+D:\Visual Basics 2010\Backup\Vifarnet\Vifarnet Sp+\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Visual Basics 2010\Backup\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet X-emplar.vbproj.ResolveComReference.cache
+D:\Visual Basics 2010\Backup\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet X-emplar.exe
+D:\Visual Basics 2010\Backup\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet X-emplar.xml
+D:\Visual Basics 2010\Backup\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet X-emplar.pdb
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\bin\Debug\Vifarnet X-emplar.exe.config
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\bin\Debug\Vifarnet X-emplar.exe.manifest
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\bin\Debug\Vifarnet X-emplar.application
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\bin\Debug\Vifarnet X-emplar.exe
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\bin\Debug\Vifarnet X-emplar.pdb
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\bin\Debug\Vifarnet X-emplar.xml
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\bin\Debug\Interop.WMPLib.dll
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Interop.WMPLib.dll
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet X-emplar.vbproj.ResolveComReference.cache
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.abt.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.abtmt.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.abt_fixit.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.abt_mov.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.abt_music.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.abt_xplore.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.BG.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.lstbk.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.ctrl.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.devlogger.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Dialog1.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Dialog2.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Dialog3.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Dialog4.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Dialog5.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Dip.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.VifFixIt.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.math.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Vifmt.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.nm.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.quit.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.rim.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.ud1.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.ud2.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.xp.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.xplore.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Mov.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.music.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Resources.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.pass.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.PvtPort.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.Spls.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet_Xplr_.StrtScrn.resources
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet X-emplar.vbproj.GenerateResource.Cache
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet X-emplar.TrustInfo.xml
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet X-emplar.exe.manifest
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet X-emplar.application
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet X-emplar.exe
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet X-emplar.xml
+D:\Visual Basics 2010\Vifarnet\Vifarnet Sp+\obj\x86\Debug\Vifarnet X-emplar.pdb

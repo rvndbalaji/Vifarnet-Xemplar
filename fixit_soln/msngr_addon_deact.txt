@@ -1,0 +1,10 @@
+1) Modify the Windows Hosts file.
+
+
+
+The Hosts file contains the mappings of IP addresses to host names.
+It is located at C:\Windows\System32\Drivers\Etc.
+]=
+Just Open your Hosts file with notepad and add the following entry to it
+127.0.0.1 rad.msn.com
+

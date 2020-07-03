@@ -1,0 +1,508 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3D66B2F4-6C67-45D1-AF2D-58442355DA01}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Vifarnet_Xplr_.My.MyApplication</StartupObject>
+    <RootNamespace>Vifarnet_Xplr_</RootNamespace>
+    <AssemblyName>Vifarnet X-emplar</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\Visual Basics 2010\Software Setup Files\Vifarnet\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <UpdateUrl>http://localhost/Vifarnet Sp+/</UpdateUrl>
+    <ProductName>Vifarnet X-emplar</ProductName>
+    <PublisherName>Vifarnet Corporation</PublisherName>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>2.0.0.0</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Vifarnet X-emplar.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Vifarnet X-emplar.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>v.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>A6893B3AB273586E3612C984BA24D00C103AE077</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Vifarnet Sp+_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="WebKitBrowser">
+      <HintPath>..\..\WebKit.NET-0.5-bin-cairo\bin\WebKitBrowser.dll</HintPath>
+    </Reference>
+    <Reference Include="WebKitBrowserTest">
+      <HintPath>..\..\WebKit.NET-0.5-bin-cairo\bin\WebKitBrowserTest.exe</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="abt.Designer.vb">
+      <DependentUpon>abt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="abt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="abt_fixit.Designer.vb">
+      <DependentUpon>abt_fixit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="abt_fixit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="abt_mov.Designer.vb">
+      <DependentUpon>abt_mov.vb</DependentUpon>
+    </Compile>
+    <Compile Include="abt_mov.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="abt_music.Designer.vb">
+      <DependentUpon>abt_music.vb</DependentUpon>
+    </Compile>
+    <Compile Include="abt_music.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Dialog1.Designer.vb">
+      <DependentUpon>Dialog1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialog2.Designer.vb">
+      <DependentUpon>Dialog2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialog3.Designer.vb">
+      <DependentUpon>Dialog3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialog4.Designer.vb">
+      <DependentUpon>Dialog4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dip.Designer.vb">
+      <DependentUpon>Dip.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dip.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fix It.Designer.vb">
+      <DependentUpon>Fix It.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fix It.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="math.Designer.vb">
+      <DependentUpon>math.vb</DependentUpon>
+    </Compile>
+    <Compile Include="math.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ud.Designer.vb">
+      <DependentUpon>ud.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ud.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ud2.Designer.vb">
+      <DependentUpon>ud2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ud2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updates_img.vb" />
+    <Compile Include="xplore.Designer.vb">
+      <DependentUpon>xplore.vb</DependentUpon>
+    </Compile>
+    <Compile Include="xplore.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mov.Designer.vb">
+      <DependentUpon>Mov.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mov.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="music.Designer.vb">
+      <DependentUpon>music.vb</DependentUpon>
+    </Compile>
+    <Compile Include="music.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="pass.Designer.vb">
+      <DependentUpon>pass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PvtPort.Designer.vb">
+      <DependentUpon>PvtPort.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PvtPort.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splsh Screen.Designer.vb">
+      <DependentUpon>Splsh Screen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Splsh Screen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Start Screen.Designer.vb">
+      <DependentUpon>Start Screen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Start Screen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="abt.resx">
+      <DependentUpon>abt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="abt_fixit.resx">
+      <DependentUpon>abt_fixit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="abt_mov.resx">
+      <DependentUpon>abt_mov.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="abt_music.resx">
+      <DependentUpon>abt_music.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialog1.resx">
+      <DependentUpon>Dialog1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialog2.resx">
+      <DependentUpon>Dialog2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialog3.resx">
+      <DependentUpon>Dialog3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialog4.resx">
+      <DependentUpon>Dialog4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dip.resx">
+      <DependentUpon>Dip.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fix It.resx">
+      <DependentUpon>Fix It.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="math.resx">
+      <DependentUpon>math.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ud.resx">
+      <DependentUpon>ud.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ud2.resx">
+      <DependentUpon>ud2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xplore.resx">
+      <DependentUpon>xplore.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mov.resx">
+      <DependentUpon>Mov.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="music.resx">
+      <DependentUpon>music.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pass.resx">
+      <DependentUpon>pass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PvtPort.resx">
+      <DependentUpon>PvtPort.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splsh Screen.resx">
+      <DependentUpon>Splsh Screen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Start Screen.resx">
+      <DependentUpon>Start Screen.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Vifarnet Sp+_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splshscrn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dj.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fixit.png" />
+    <None Include="Resources\load1.gif" />
+    <None Include="Resources\load15.gif" />
+    <None Include="Resources\load17.gif" />
+    <None Include="Resources\load2.gif" />
+    <None Include="Resources\load7.gif" />
+    <None Include="Resources\load.gif" />
+    <None Include="Resources\Software-update.ico" />
+    <None Include="Resources\bg1.jpg" />
+    <None Include="Resources\arrow1.png" />
+    <None Include="Resources\help.ico" />
+    <None Include="Resources\help1.png" />
+    <None Include="Resources\load4.gif" />
+    <None Include="Resources\load13.gif" />
+    <None Include="Resources\open1.png" />
+    <None Include="Resources\close1.ico" />
+    <None Include="Resources\uninst.png" />
+    <None Include="Resources\min.ico" />
+    <None Include="Resources\bg3.jpg" />
+    <None Include="Resources\window.jpg" />
+    <None Include="Resources\srch.jpg" />
+    <None Include="Resources\srch_adv1.jpg" />
+    <None Include="Resources\srch_adv11.png" />
+    <None Include="Resources\mov1.png" />
+    <None Include="Resources\mov2.jpg" />
+    <None Include="Resources\mov3.jpg" />
+    <None Include="Resources\arrow4.gif" />
+    <None Include="Resources\arrow3.gif" />
+    <None Include="Resources\arrow51.gif" />
+    <None Include="Resources\sp+.png" />
+    <None Include="Resources\bg2.jpg" />
+    <None Include="Resources\bubbles.jpg" />
+    <None Include="Resources\bg6.jpg" />
+    <None Include="Resources\Alert.ico" />
+    <None Include="Resources\OK1.png" />
+    <None Include="Resources\twilight2008.jpg" />
+    <None Include="Resources\newmoon.jpg" />
+    <None Include="Resources\eclipse.jpg" />
+    <None Include="Resources\breakingdawn.jpg" />
+    <None Include="Resources\arrow6.png" />
+    <None Include="Resources\refresh.ico" />
+    <None Include="Resources\restart.ico" />
+    <None Include="Resources\update1.jpg" />
+    <None Include="Resources\error.ico" />
+    <None Include="Resources\settings_3.png" />
+    <None Include="Resources\settings_5.png" />
+    <None Include="Resources\music.ico" />
+    <None Include="Resources\shine.jpg" />
+    <None Include="Resources\akon.jpg" />
+    <None Include="Resources\arrow31.gif" />
+    <None Include="Resources\BB.jpg" />
+    <None Include="Resources\eminem.jpg" />
+    <None Include="Resources\enig2.jpg" />
+    <None Include="Resources\gd.jpg" />
+    <None Include="Resources\js.jpg" />
+    <None Include="Resources\bm.jpg" />
+    <None Include="Resources\mi1.jpg" />
+    <None Include="Resources\mi2.jpg" />
+    <None Include="Resources\mi3.jpg" />
+    <None Include="Resources\mi4.jpg" />
+    <None Include="Resources\bg7.jpg" />
+    <None Include="Resources\bg8.png" />
+    <None Include="Resources\OK2.png" />
+    <None Include="Resources\lock.ico" />
+    <None Include="Resources\lock.png" />
+    <None Include="Resources\math.png" />
+    <None Include="Resources\bg9.png" />
+    <None Include="Resources\note1.ico" />
+    <None Include="Resources\note2.ico" />
+    <None Include="Resources\m1.ico" />
+    <None Include="Resources\m2.ico" />
+    <None Include="Resources\m3.ico" />
+    <None Include="Resources\m4.ico" />
+    <None Include="Resources\m5.ico" />
+    <None Include="Resources\google.png" />
+    <None Include="Resources\bg71.jpg" />
+    <None Include="Resources\bg81.png" />
+    <None Include="Resources\live.png" />
+    <None Include="Resources\Y.png" />
+    <None Include="Resources\rediff.jpg" />
+    <None Include="Resources\gmail.png" />
+    <None Include="Resources\xplore.ico" />
+    <None Include="Resources\math3.png" />
+    <None Include="Resources\math4.png" />
+    <None Include="Resources\calc.jpg" />
+    <None Include="Resources\bg12.jpg" />
+    <None Include="Resources\bg11.jpg" />
+    <None Include="Resources\bg10.jpg" />
+    <None Include="Resources\refresh.png" />
+    <None Include="Resources\rfsh.ico" />
+    <None Include="Resources\bar.jpg" />
+    <None Include="Resources\bar1.gif" />
+    <None Include="Resources\close2.png" />
+    <None Include="Resources\math5.png" />
+    <None Include="Resources\calc1.png" />
+    <None Include="Resources\math61.png" />
+    <None Include="Resources\xp1.ico" />
+    <None Include="Resources\Xemplar.png" />
+    <None Include="Resources\xplr.ico" />
+    <Content Include="v.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
